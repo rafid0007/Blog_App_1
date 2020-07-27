@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="452d7ffc-751f-4315-87fe-88f2bb12d93f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CoreyS">
+      <favorite_root url="file://$PROJECT_DIR$/CoreyS/settings.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/CoreyS/urls.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/blog/templates/blog/base.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/users/views.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/blog/views.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dRLRFpr3exw0pZdgieFYiHe1Ak" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Django\CoreyS\users\templates\users" />
+      <recent name="E:\Django\CoreyS\blog\templates\blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django\CoreyS\media" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="django_ORM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CoreyS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/django_ORM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CoreyS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/users" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/users/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CoreyS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoreyS" type="Python.DjangoServer" factoryName="Django server">
+      <module name="CoreyS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.django_ORM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452d7ffc-751f-4315-87fe-88f2bb12d93f" name="Default Changelist" comment="" />
+      <created>1592382948083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592382948083</updated>
+      <workItem from="1592383045173" duration="1248000" />
+      <workItem from="1592415954096" duration="15000" />
+      <workItem from="1592495835042" duration="3140000" />
+      <workItem from="1592565515700" duration="7532000" />
+      <workItem from="1592662677402" duration="7405000" />
+      <workItem from="1592712754962" duration="17000" />
+      <workItem from="1592749781060" duration="9724000" />
+      <workItem from="1592797605273" duration="8487000" />
+      <workItem from="1592907720485" duration="12030000" />
+      <workItem from="1592994263982" duration="10370000" />
+      <workItem from="1593097782641" duration="4443000" />
+      <workItem from="1593136876189" duration="7728000" />
+      <workItem from="1593261817323" duration="7148000" />
+      <workItem from="1593319775558" duration="7637000" />
+      <workItem from="1593410604359" duration="4257000" />
+      <workItem from="1593490917751" duration="14225000" />
+      <workItem from="1593584004959" duration="6954000" />
+      <workItem from="1593598137631" duration="4196000" />
+      <workItem from="1593683250316" duration="9476000" />
+      <workItem from="1593696101823" duration="2970000" />
+      <workItem from="1593758432032" duration="1229000" />
+      <workItem from="1593871969579" duration="1736000" />
+      <workItem from="1594128727274" duration="5278000" />
+      <workItem from="1594217174473" duration="3672000" />
+      <workItem from="1594302934751" duration="5831000" />
+      <workItem from="1594356746548" duration="2923000" />
+      <workItem from="1594488751715" duration="5938000" />
+      <workItem from="1594539167764" duration="2214000" />
+      <workItem from="1594648122806" duration="2387000" />
+      <workItem from="1594663841605" duration="1728000" />
+      <workItem from="1594733271955" duration="8185000" />
+      <workItem from="1594784934914" duration="12212000" />
+      <workItem from="1594883171712" duration="8655000" />
+      <workItem from="1594912864863" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592665040282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1592665040282" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1593872472951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593872472951" />
+    <state width="1323" height="117" key="GridCell.Tab.0.bottom" timestamp="1593492086752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="117" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593492086752" />
+    <state width="1323" height="117" key="GridCell.Tab.0.center" timestamp="1593492086752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="117" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593492086752" />
+    <state width="1323" height="117" key="GridCell.Tab.0.left" timestamp="1593492086751">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="117" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593492086751" />
+    <state width="1323" height="117" key="GridCell.Tab.0.right" timestamp="1593492086752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="117" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593492086752" />
+    <state width="1323" height="353" key="GridCell.Tab.1.bottom" timestamp="1593001300653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="353" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593001300653" />
+    <state width="1323" height="353" key="GridCell.Tab.1.center" timestamp="1593001300653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="353" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593001300653" />
+    <state width="1323" height="353" key="GridCell.Tab.1.left" timestamp="1593001300653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="353" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593001300653" />
+    <state width="1323" height="353" key="GridCell.Tab.1.right" timestamp="1593001300653">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="353" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593001300653" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1594664421863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594664421863" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1594912887366">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594912887366" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1594903258474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594903258474" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CoreyS$views.coverage" NAME="views Coverage Results" MODIFIED="1593492082753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog" />
+    <SUITE FILE_PATH="coverage/CoreyS$views__1_.coverage" NAME="views (1) Coverage Results" MODIFIED="1593001169505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/users" />
+    <SUITE FILE_PATH="coverage/CoreyS$django_ORM.coverage" NAME="django_ORM Coverage Results" MODIFIED="1592751038636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blog" />
+  </component>
+</project>
